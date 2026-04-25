@@ -46,5 +46,5 @@ dist
 Environment variable:
 
 ```env
-VITE_API_URL=https://your-render-backend-url.onrender.com/api
+VITE_API_URL=https://back-a9dq.onrender.com/api
 ```
